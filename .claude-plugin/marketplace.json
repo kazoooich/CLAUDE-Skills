@@ -1,0 +1,16 @@
+{
+  "name": "kazoooich-skills",
+  "owner": {
+    "name": "kazoooich"
+  },
+  "metadata": {
+    "description": "Custom Claude Code skills"
+  },
+  "plugins": [
+    {
+      "name": "my-skills",
+      "source": "./",
+      "description": "Custom Claude Code skills (handover, ...)"
+    }
+  ]
+}

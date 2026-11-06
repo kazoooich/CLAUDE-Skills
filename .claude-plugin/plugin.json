@@ -1,0 +1,8 @@
+{
+  "name": "my-skills",
+  "version": "1.0.0",
+  "description": "Custom Claude Code skills (handover, ...)",
+  "author": {
+    "name": "kazoooich"
+  }
+}
